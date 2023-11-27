@@ -1,5 +1,6 @@
 {
   "name": "wade-tools",
+  "publisher": "Wade Feng",
   "displayName": "wade-tools",
   "description": "Collection of personal FE development vscode tools",
   "version": "0.0.1",
