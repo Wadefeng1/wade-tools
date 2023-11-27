@@ -3,7 +3,7 @@
   "publisher": "wadetools",
   "displayName": "Wade Tools",
   "description": "Collection of personal FE development vscode tools",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "engines": {
     "vscode": "^1.84.0"
   },
