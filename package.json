@@ -9,6 +9,7 @@
   "categories": [
     "Extension Packs"
   ],
+  "repository": "https://github.com/Wadefeng1/wade-tools",
   "extensionPack": [
     "NuclleaR.vscode-extension-auto-import",
     "MS-CEINTL.vscode-language-pack-zh-hans",
