@@ -1,0 +1,51 @@
+{
+  "name": "wade-tools",
+  "displayName": "wade-tools",
+  "description": "Collection of personal FE development vscode tools",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "NuclleaR.vscode-extension-auto-import",
+    "MS-CEINTL.vscode-language-pack-zh-hans",
+    "formulahendry.code-runner",
+    "streetsidesoftware.code-spell-checker",
+    "w88975.code-translate",
+    "aminer.codegeex",
+    "naumovs.color-highlight",
+    "clinyong.vscode-css-modules",
+    "ms-azuretools.vscode-docker",
+    "mikestead.dotenv",
+    "EditorConfig.EditorConfig",
+    "usernamehw.errorlens",
+    "dsznajder.es7-react-js-snippets",
+    "dbaeumer.vscode-eslint",
+    "mhutchie.git-graph",
+    "GitHub.copilot",
+    "GitHub.copilot-chat",
+    "eamodio.gitlens",
+    "kisstkondoros.vscode-gutter-preview",
+    "wix.vscode-import-cost",
+    "oderwat.indent-rainbow",
+    "xabikos.JavaScriptSnippets",
+    "labuladong.leetcode-helper",
+    "ritwickdey.LiveServer",
+    "PKief.material-icon-theme",
+    "mintlify.document",
+    "quicktype.quicktype",
+    "esbenp.prettier-vscode",
+    "yoavbls.pretty-ts-errors",
+    "alefragnani.project-manager",
+    "bradlc.vscode-tailwindcss",
+    "wayou.vscode-todo-highlight",
+    "BriteSnow.vscode-toggle-quotes",
+    "ChakrounAnas.turbo-console-log",
+    "octref.vetur",
+    "styled-components.vscode-styled-components",
+    "Vue.volar"
+  ]
+}
