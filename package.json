@@ -1,12 +1,13 @@
 {
   "name": "wade-tools",
   "publisher": "wadetools",
-  "displayName": "wade-tools",
+  "displayName": "Wade Tools",
   "description": "Collection of personal FE development vscode tools",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.84.0"
   },
+  "icon": "images/mew.jpg",
   "categories": [
     "Extension Packs"
   ],
